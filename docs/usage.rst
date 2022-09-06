@@ -34,5 +34,9 @@ For example:
 
 
 .. automodule:: lumache
-
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   
+   
 
