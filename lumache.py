@@ -49,7 +49,7 @@ class genome(object):
     :type iprfile: str
     :param vcffiles: path to the VCF files directory
     :type vcffiles: str
-'''
+    '''
 
     _snpimpact = {'LOW':Color(0,150/255,50/255), 'MODERATE':Color(204/255,153/255,0/255),
                  'MODIFIER':Color(255/255,0/255,255/255),
